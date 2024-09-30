@@ -5,7 +5,6 @@ genap antara 1 hingga 50.'''
 
 def soal1():
     # bil = int(input("Masukkan bilangan: "))
-
     bil = 50
 
     for i in(range(1,bil+1)):
