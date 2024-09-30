@@ -1,5 +1,7 @@
 # Praktikum-Alpro-2
-Mekanisme pembelian pada toko sembako
+SOAL PRAKTIKUM
+
+SOAL Pertemuan 2 (
 
 	Deskripsi :
 Athallah disuruh ibunya ke warung untuk membeli sembako. Lebih jelasnya ia disuruh untuk membeli Beras, Minyak, Telur, Gula, Garam, dan Cabe.
@@ -87,3 +89,65 @@ Stok Cabe yang tersedia (kg) : 3
 Output :
 ATHALLAH NGUTANG
 Jumlah Utang : Rp. 468000
+
+
+
+
+)
+
+SOAL Pertemuan 3 (
+
+Pak budi merupakan seorang pemilik perusahaan pakaian, ia memiliki banyak sekali cabang toko sekaligus gudang, toko dan gudang tersebut berada di tempat yang sama. Pak budi setiap hari mengirimkan beberapa pakaian ke cabang tokonya, setiap cabang memiliki jarak sekitar 15km.
+
+Pada cabang pertama, pengirim akan menurunkan sekitar 5 pakaian dan pada cabang berikutnya pakaian yang diturunkan akan bertambah 2. setiap kali pengirim berhenti di satu cabang, akan ada pemasukan 4 pakaian setiap kali berhenti. Jika pada cabang selanjutnya stok pakaian yang masih tersisa itu lebih kecil dari pakaian yang harus diturunakn,maka pakaian yang masih tersisa akan dikembalikan ke pak budi.
+
+pakaian yang dijual oleh pak budi terdapat tiga jenis yaitu baju, celana, dan jaket dengan harga masing-masing pakaian:
+baju: Rp. 85.000
+celana: Rp. 100.000
+jaket: Rp. 155.000
+
+Setiap pakaian memiliki tag penomoran yang berbeda pada setiap jenisnya, yaitu:
+0 untuk baju
+1 untuk celana
+2 untuk jaket
+sebagai contoh, semisal pengirim menurunkan 5 pakaian, maka pakaian yang keluar:
+- 0
+- 1
+- 2
+- 0
+- 1
+Contoh lainnya, semisal pengirim menurunkan 7 pakaian, maka pakaian yang keluar:
+- 0
+- 1
+- 2 
+- 0 
+- 1
+- 2
+- 0
+
+
+output: jarak, pendapatan, pakaian tersisa
+
+Contoh 1:
+input:
+Total pakaian yang dikirimkan: 50
+
+output:
+Jarak yang ditempuh: 90km
+pendapatan yang diterima: Rp. 6660.000
+Total pakaian yang tersisa: 14
+
+Contoh 2:
+Input:
+Total pakaian yang dikirimkan: 5
+Output:
+Jarak yang ditempuh: 15km
+pendapatan yang diterima: Rp. 525000
+Total pakaian yang tersisa: 4
+
+Percobaan:
+1. total pakaian yang dikirimkan 42
+2. total pakaian yang dikirimkan 19
+3. total pakaian yang dikirimkan 8
+
+)
