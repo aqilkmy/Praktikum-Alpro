@@ -1,7 +1,7 @@
 # Praktikum-Alpro-2
 SOAL PRAKTIKUM
 
-SOAL Pertemuan 2 (
+<<<<<< SOAL Pertemuan 2 >>>>>> (
 
 	Deskripsi :
 Athallah disuruh ibunya ke warung untuk membeli sembako. Lebih jelasnya ia disuruh untuk membeli Beras, Minyak, Telur, Gula, Garam, dan Cabe.
@@ -95,7 +95,7 @@ Jumlah Utang : Rp. 468000
 
 )
 
-SOAL Pertemuan 3 (
+<<<<<< SOAL Pertemuan 3 >>>>>> (
 
 Pak budi merupakan seorang pemilik perusahaan pakaian, ia memiliki banyak sekali cabang toko sekaligus gudang, toko dan gudang tersebut berada di tempat yang sama. Pak budi setiap hari mengirimkan beberapa pakaian ke cabang tokonya, setiap cabang memiliki jarak sekitar 15km.
 
