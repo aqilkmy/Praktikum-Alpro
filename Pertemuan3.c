@@ -8,7 +8,6 @@
 //             printf(" %d",i);
 //         }
 // }
-
 /*
 int n, jumlah;
 
