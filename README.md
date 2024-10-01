@@ -110,12 +110,14 @@ Setiap pakaian memiliki tag penomoran yang berbeda pada setiap jenisnya, yaitu:
 0 untuk baju
 1 untuk celana
 2 untuk jaket
+
 sebagai contoh, semisal pengirim menurunkan 5 pakaian, maka pakaian yang keluar:
 - 0
 - 1
 - 2
 - 0
 - 1
+  
 Contoh lainnya, semisal pengirim menurunkan 7 pakaian, maka pakaian yang keluar:
 - 0
 - 1
